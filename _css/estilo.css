@@ -117,7 +117,7 @@ nav#menu a:hover {
 }
 section#corpo {
     display: block;
-    width: 500px;
+    width: 490px;
     float: left;
     border-right: 1px solid #606060;
     padding-right: 15px;
@@ -187,10 +187,18 @@ aside#lateral {
     width: 350px;
     float: right;
     background-color: #dddddd;
-    padding: 10px;
-    margin-top: 10px;
+    padding: 20px;
+    margin-top: 5px;
     box-shadow: 2px 2px 2px rgb(0, 0, 0,.5);
 }
+video#dois {
+    position: relative;
+    display: block;
+    top: -50px;
+    width: 350px;
+    height: 350px;
+}
+
 aside#lateral h1{
     font-family: 'FonteLogo',sans-serif;
     font-size: 20pt;
